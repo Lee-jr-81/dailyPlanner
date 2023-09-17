@@ -1,5 +1,5 @@
 body {
-  font-family: 'Open Sans', sans-serif;
+  font-family: "Open Sans", sans-serif;
   font-size: 16px;
   line-height: 1;
 }
@@ -20,6 +20,15 @@ header {
   border-radius: 0;
   border-bottom: 10px solid black;
   padding: 60px;
+}
+
+.jumbotron {
+  background: transparent;
+  border: none;
+  resize: none;
+  color: #000000;
+  border-left: 1px solid #000;
+  padding: 10px;
 }
 
 .description {
@@ -69,4 +78,17 @@ header {
 .saveBtn i:hover {
   font-size: 20px;
   transition: all 0.3s ease-in-out;
+}
+
+.notification {
+  display: none;
+  color: #000;
+}
+
+.show {
+  display: block;
+}
+
+.btn {
+  background-color: #06aed5;
 }
