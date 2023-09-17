@@ -1,19 +1,19 @@
-## Daily Planner
-# Description
+# Daily Planner
+## Description
 
 A fairly simple Daily Planner app that tracks the hour in which the reminder is created and shows a different colour accordingly.
 
 In this case i have introduced aspects of jQuery into the code base but have also relied on Vanilla Javascript to do some of the heavy lifting. Also used the Day.JS API to keep track of the date and time.
 
-# Usage
+## Usage
 
 No specific usage required.
 
-# Credits
+## Credits
 
 I would like to give attribution to EDX for supplying the CSS and HTMl files which i used to kickstart the project. 
 
-# MIT License
+## MIT License
 
 Copyright (c) [2023] [Lee Williams]
 
@@ -23,10 +23,10 @@ The above copyright notice and this permission notice shall be included in all c
 
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
-# Badges
+## Badges
 
 No badges to show yet.
 
-# Features
+## Features
 
 Implemented the use of the Day.js API.
