@@ -12,6 +12,7 @@ No specific usage required.
 ## Credits
 
 I would like to give attribution to EDX for supplying the CSS and HTMl files which i used to kickstart the project. 
+I would like to give attribution to jfisher396 for highlighting a useful function call i implemented in my codebase.
 
 ## MIT License
 
